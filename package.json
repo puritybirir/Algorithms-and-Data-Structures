@@ -1,0 +1,20 @@
+{
+  "name": "Algorithms-and-Data-Structures",
+  "version": "1.0.0",
+  "description": "Vast and different computer science algorithms and data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puritybirir/Algorithms-and-Data-Structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puritybirir/Algorithms-and-Data-Structures/issues"
+  },
+  "homepage": "https://github.com/puritybirir/Algorithms-and-Data-Structures#readme"
+}
